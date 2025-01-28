@@ -152,3 +152,12 @@ WHERE
     
 GROUP BY
     skill_id
+
+
+
+SELECT *
+FROM job_postings_fact
+WHERE 
+    job_title_short = 'Data Analyst'
+    AND job_location ILIKE 'new york%'
+    OR job_location ILIKE 'anywhere%'
