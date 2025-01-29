@@ -214,7 +214,7 @@ Its also interesting that unity and unreal are mentioned in the top 25 skills as
 
 I wanted to understand which skills were the most optimal for someone to learn if they wanted to get into data analytics. I define optimal here as a skill that is in high demand as well as a high-paying skill.
 
-To find the query for this question you can [click here!](/project_SQL/SQL/5_optimal_skills.sql)
+To find the query for this question you can [click here!](/project_SQL/SQL/5_optimal_skills.sql) and the results are located [here!](/project_SQL/CSVs/most_optimal_skills.csv)
 
 - **Apache Applications:** The main interesting takeaway from this question was that several Apache data systems appeared on this list (See below). 
 
